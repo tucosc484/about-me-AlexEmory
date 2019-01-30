@@ -6,3 +6,5 @@ Ideally, I want to become a software engineer and just continue doing that until
 
 ## 3. What programming experience do you have? Do you have any web experience?
 So, my only programming experience is within Towson. My only web experience is using JavaScript and Node.js to make a mini chat server for my Networking Class, so I have a little bit of experience with both of those. I also used Microsoft Web Expressions 4 for a Comptuers and Creativity class, but that was hardly any coding at all. 
+
+Code Academy link: https://www.codecademy.com/alexandraEmory2550241491
